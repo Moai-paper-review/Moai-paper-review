@@ -4,7 +4,7 @@
 # contents
 
 
-**(1) Alex Net**
+**(1) Alex Net** 
 >Imagenet classification with deep convolutional neural networks
 Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, (NIPS 2012)
 
@@ -58,3 +58,11 @@ author (year).
 
 
 -->
+
+## Member
+
+- [김용환](www.google.com)
+- [박혜나]()
+- [신중현](https://github.com/Blackeyes0u0)
+- [이종휘]()
+- [장혜지]()
