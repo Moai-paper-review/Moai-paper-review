@@ -1,4 +1,4 @@
-# MoAI team-Paper-Review
+# Moai-Paper-Review
 
 <center><img src="/img/moai.png" width="300" height="300"></center>
 
