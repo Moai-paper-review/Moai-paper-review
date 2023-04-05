@@ -2,6 +2,17 @@
 
 <center><img src="/img/moai.png" width="300" height="300"></center>
 
+<div>
+  <img src="/img/moai.png" alt="An image" width="300" height="300">
+  <p>This is a description of the image.</p>
+</div>
+
+
+<div>
+  <img src="/img/moai.png" alt="An image" width="300" height="300">
+  <div style="width: 100px; height: 300px; background-color: blue;"></div>
+</div>
+
 # contents
 
 **(1) Alex Net** 
