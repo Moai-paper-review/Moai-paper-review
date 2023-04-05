@@ -66,7 +66,7 @@ author (year).
 ## Member
 
 - [김용환](www.google.com)
-- [박혜나]()
+- [박혜나](https://github.com/hyenagatha02)
 - [신중현](https://github.com/Blackeyes0u0)
 - [이종휘]()
 - [장혜지]()
