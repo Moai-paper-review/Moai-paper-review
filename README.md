@@ -69,7 +69,7 @@ author (year).
 - [박혜나](https://github.com/hyenagatha02)
 - [신중현](https://github.com/Blackeyes0u0)
 - [이종휘]()
-- [장혜지]()
+- [장혜지](https://github.com/Hyeji0828)
 
 
 <!--
