@@ -1,6 +1,6 @@
 # Paper-Review
 
-![moai](./img/moai.png)
+![moai](./img/moai.png){: width="100" height="100"}
 
 # contents
 
