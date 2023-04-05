@@ -3,7 +3,7 @@
 
 # contents
 
-![moai](./moai.png)
+![moai](./img/moai.png)
 
 **(1) Alex Net** 
 >Imagenet classification with deep convolutional neural networks
