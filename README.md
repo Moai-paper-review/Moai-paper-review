@@ -42,7 +42,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, (2015)
 
 **(5) Dense-Net**
 >Densely Connected Convolutional Networks
-Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberge, (2016). 김용환발표
+Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberge, (2016). 
 
 [`REVIEW`](./reviews/Dense.md)	|	[`PAPER`](https://arxiv.org/abs/1608.06993)
 
