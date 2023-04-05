@@ -3,6 +3,7 @@
 
 # contents
 
+![moai](./moai.png)
 
 **(1) Alex Net** 
 >Imagenet classification with deep convolutional neural networks
@@ -66,3 +67,8 @@ author (year).
 - [신중현](https://github.com/Blackeyes0u0)
 - [이종휘]()
 - [장혜지]()
+
+
+<!--
+https://github.com/BCPR/PaperReview
+-->
