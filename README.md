@@ -1,9 +1,8 @@
 # Paper-Review
 
+![moai](./img/moai.png)
 
 # contents
-
-![moai](./img/moai.png)
 
 **(1) Alex Net** 
 >Imagenet classification with deep convolutional neural networks
